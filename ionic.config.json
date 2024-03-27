@@ -1,0 +1,7 @@
+{
+  "name": "Planechasing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
